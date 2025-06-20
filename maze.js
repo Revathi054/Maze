@@ -1,3 +1,4 @@
+// This is the separate code of the logic which is written in index.html in script tag this is an Exteernal File
 const canvas = 
     document.getElementById('mazeCanvas');
 const pen = 
